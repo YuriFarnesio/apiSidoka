@@ -1,0 +1,271 @@
+{		
+	"albumName": "Elevate",
+	"songs": [
+		{
+			"musicName": "Scotch",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Yung Lando",
+			"musicDuration": "3:41",
+			"musicLink": "https://youtu.be/Pco10hjWAFA"
+		},
+		{
+			"musicName": "Beach Motel",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Yung Lando",
+			"musicDuration": "3:45",
+			"musicLink": "https://youtu.be/PiwUzjvQ4J0"
+		},
+		{
+			"musicName": "Papelzinho",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Josh Petruccio",
+			"musicDuration": "3:02",
+			"musicLink": "https://youtu.be/bfPn5c4ofHU"
+		},
+		{
+			"musicName": "Noite Fria Pt. II",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Prxttx",
+			"musicDuration": "4:41",
+			"musicLink": "https://youtu.be/78QJZFdFoYM"
+		},
+		{
+			"musicName": "Eu Nem Me Preocupo",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Yung Lando",
+			"musicDuration": "3:39",
+			"musicLink": "https://youtu.be/LKoGotNO1gU"
+		},
+		{
+			"musicName": "07",
+			"musicFt": "n/a",
+			"musicDate": "13/12/2018",
+			"musicBeat": "CoyoteBeatz",
+			"musicDuration": "3:59",
+			"musicLink": "https://youtu.be/xCpVko11RPM"
+		},
+		{
+			"musicName": "Hydra",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "CoyoteBeatz",
+			"musicDuration": "4:18",
+			"musicLink": "https://youtu.be/jv63JYQqdYk"
+		},
+		{
+			"musicName": "Luva Refletiva",
+			"musicFt": "Dogor",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Jos Beats",
+			"musicDuration": "3:49",
+			"musicLink": "https://youtu.be/PQ0R64R9qzA"
+		},
+		{
+			"musicName": "OK",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Yung Lando",
+			"musicDuration": "3:27",
+			"musicLink": "https://youtu.be/kvOdWdOQK9A"
+		},
+		{
+			"musicName": "doka ta d louis v",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Swift Beatz",
+			"musicDuration": "3:46",
+			"musicLink": "https://youtu.be/QHzruLJ044MA"
+		},
+		{
+			"musicName": "Bandolero",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Tundra Beats",
+			"musicDuration": "4:06",
+			"musicLink": "https://youtu.be/QEQf8oiqZHo"
+		},
+		{
+			"musicName": "Pergaminho",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Dj Vitin Mpc",
+			"musicDuration": "2:50",
+			"musicLink": "https://youtu.be/TGSSg5pfhGU"
+		},
+		{
+			"musicName": "Madame",
+			"musicFt": "n/a",
+			"musicDate": "07/01/2019",
+			"musicBeat": "Yung Lando",
+			"musicDuration": "3:43",
+			"musicLink": "https://youtu.be/5seZ0_QqYe0"
+		}
+	]
+},
+{
+	"albumName": "doka language",
+	"songs": [
+		{
+			"musicName": "espanha",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Woodpecker",
+			"musicDuration": "2:49",
+			"musicLink": "https://youtu.be/zrNWdHXUPm8"
+		},
+		{
+			"musicName": "olha p oclin",
+			"musicFt": "FBC",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Leida Beatz",
+			"musicDuration": "3:43",
+			"musicLink": "https://youtu.be/IPZYid3SfMQ"
+		},
+		{
+			"musicName": "um olho pra dois",
+			"musicFt": "Pexande",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "3:27",
+			"musicLink": "https://youtu.be/90XY1WXmFrU"
+		},
+		{
+			"musicName": "versace, lv",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "2:36",
+			"musicLink": "https://youtu.be/xbXZtmJDj_I"
+		},
+		{
+			"musicName": "topless",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "2:33",
+			"musicLink": "https://youtu.be/r7jOD-yCUXE"
+		},
+		{
+			"musicName": "nightlife",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "3:40",
+			"musicLink": "https://youtu.be/TpcawlqDvcw"
+		},
+		{
+			"musicName": "água",
+			"musicFt": "Delatorvi & GU$TAVERA",
+			"musicDate": "11/07/2019",
+			"musicBeat": "GU$TAVERA",
+			"musicDuration": "3:43",
+			"musicLink": "https://youtu.be/VpuxRtldBvM"
+		},
+		{
+			"musicName": "dejavu",
+			"musicFt": "Dogor",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "4:02",
+			"musicLink": "https://youtu.be/eSCxx6vyeqc"
+		},
+		{
+			"musicName": "labirintoz",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "2:26",
+			"musicLink": "https://youtu.be/9GaXvSyDWow"
+		},
+		{
+			"musicName": "a menina que roubava",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Pluto",
+			"musicDuration": "3:27",
+			"musicLink": "https://youtu.be/pH_1CzXfxmQ"
+		},
+		{
+			"musicName": "luba",
+			"musicFt": "Dogdu",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Dogdu",
+			"musicDuration": "2:18",
+			"musicLink": "https://youtu.be/kHskia6xQ5Q"
+		},
+		{
+			"musicName": "contas",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "REDRECORD",
+			"musicDuration": "3:04",
+			"musicLink": "https://youtu.be/iBEcM5T0l3I"
+		},
+		{
+			"musicName": "elevador",
+			"musicFt": "n/a",
+			"musicDate": "11/07/2019",
+			"musicBeat": "Feniko",
+			"musicDuration": "2:17",
+			"musicLink": "https://youtu.be/-ZmjEcIIXrQ"
+		}
+	]
+},
+{		
+	"albumName": "Sommelier",
+	"songs": [
+		{
+			"musicName": "Sommelier",
+			"musicFt": "n/a",
+			"musicDate": "20/03/2019",
+			"musicBeat": "BlackMayo",
+			"musicDuration": "2:52",
+			"musicLink": "https://youtu.be/stII-tKzI3k"
+		},
+		{
+			"musicName": "Scarlett",
+			"musicFt": "n/a",
+			"musicDate": "20/03/2019",
+			"musicBeat": "BlackMayo",
+			"musicDuration": "2:55",
+			"musicLink": "https://youtu.be/kFQdCoH1vYo"
+		},
+		{
+			"musicName": "Neblina Fumelt",
+			"musicFt": "n/a",
+			"musicDate": "20/03/2019",
+			"musicBeat": "Yung Dza",
+			"musicDuration": "3:30",
+			"musicLink": "https://youtu.be/-zenFBQKN4c"
+		},
+		{
+			"musicName": "Ela Sabe",
+			"musicFt": "n/a",
+			"musicDate": "20/03/2019",
+			"musicBeat": "level",
+			"musicDuration": "3:59",
+			"musicLink": "https://youtu.be/yPVdp3iRbJc"
+		},
+		{
+			"musicName": "VIP",
+			"musicFt": "Sos & Chris",
+			"musicDate": "20/03/2019",
+			"musicBeat": "BlackMayo",
+			"musicDuration": "4:48",
+			"musicLink": "https://youtu.be/P_BtQrq2F0I"
+		},
+		{
+			"musicName": "Supplier",
+			"musicFt": "n/a",
+			"musicDate": "20/03/2019",
+			"musicBeat": "Feniko",
+			"musicDuration": "3:18",
+			"musicLink": "https://youtu.be/9aK1p6zFgp0"
+		}
+	]
+}
